@@ -1,81 +1,88 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+凤凰资讯 | YouTube | http://192.168.99.91:1111/icon/fenghuangzixun.png | 
+https://www.youtube.com/watch?v=dmDg7NfUoSw
 
-연합뉴스TV | 韩国 |  |
-https://www.youtube.com/watch?v=0GN8t2u3flc/live
-
-CCTV4 | China |  |
-https://www.youtube.com/watch?v=QTz6avPD4Ns
-4K | 4k |  |
-https://www.youtube.com/watch?v=rw7bxTqkYYs
-
-4K | 4k |  |
-https://www.youtube.com/watch?v=tAuXNZ5TSlA
-
-空间站1 | 世界 |  |
-https://www.youtube.com/watch?v=mBzrxNHF2u8
-
-空间站2 | 世界 |  |
-https://www.youtube.com/watch?v=ddZu_1Z3BAc
-
-中天新闻 |台湾||
-https://www.youtube.com/watch?v=_QbRXRnHMVY
-
-TVBS |台湾||
-https://www.youtube.com/watch?v=2mCSYvcfhtc
-
-台視新聞台 |台湾||
-https://www.youtube.com/watch?v=xL0ch83RAK8
-
-三立海外直播 |台湾||
-https://www.youtube.com/watch?v=FoBfXvlOR6I
-
-中視新聞 |台湾||
+中视新闻 | YouTube | http://192.168.99.91:1111/icon/zhongshixinwen.png | 
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-寰宇新聞台 |台湾||
+华视新闻 | YouTube | http://192.168.99.91:1111/icon/huashi.png | 
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+华视天才冲冲冲轮播 | YouTube | http://192.168.99.91:1111/icon/huashi.png | 
+https://www.youtube.com/watch?v=KgMhHfMG0p8
+
+公视新闻 | YouTube |  | 
+https://www.youtube.com/watch?v=dJY0h_xcKOs
+
+台视新闻 | YouTube | http://192.168.99.91:1111/icon/taishixinwen.png | 
+https://www.youtube.com/watch?v=xL0ch83RAK8
+
+民视新闻 | YouTube | http://192.168.99.91:1111/icon/minshixinwen.png | 
+https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+中天新闻 | YouTube | http://192.168.99.91:1111/icon/zhongtianxinwen.png | 
+https://www.youtube.com/watch?v=oIgbl7t0S_w
+
+中天新闻2台 | YouTube | http://192.168.99.91:1111/icon/zhongtianxinwen.png | 
+https://www.youtube.com/watch?v=WPfPjbOLNfE
+
+寰宇新闻 | YouTube | http://192.168.99.91:1111/icon/huanyuxinwen.png | 
 https://www.youtube.com/watch?v=B7Zp3d6xXWw
 
-国家地理 |世界||
-https://www.youtube.com/watch?v=OQz-efDv01k
+寰宇新闻Global News | YouTube | http://192.168.99.91:1111/icon/huanyuxinwen.png | 
+https://www.youtube.com/watch?v=DDvdmzvaNJs
 
-YTN | 韩国 |  |
-https://www.youtube.com/watch?v=vEO6wO0QsX8
+TVBS 56频道 | YouTube | http://192.168.99.91:1111/icon/TVBS.png | 
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-KBS | 韩国 |  |
-https://www.youtube.com/watch?v=1WhB1z0bWGs
+TVBS 55新闻 | YouTube |  | 
+https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-熊猫直播  |世界||
-https://www.youtube.com/watch?v=gNGolYPBy2E
+TVBS新闻HD | YouTube |  | 
+https://www.youtube.com/watch?v=GDbZoNmN0BE
 
-ABC  |英语||
-https://www.youtube.com/watch?v=w_Ma8oQLmSM
+TVBS News | YouTube |  | 
+https://www.youtube.com/watch?v=cz98t_t7s9Q
 
-凤凰卫视HD  |香港||
-https://www.youtube.com/watch?v=xyyvJ_KgTlg
+东森新闻 51频道 | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
+https://www.youtube.com/watch?v=khuZW5GdBXo
 
-热门音乐  |香港||
-https://www.youtube.com/watch?v=wrYF0HX7Kzc
-
-欧美音乐  |香港||
-https://www.youtube.com/watch?v=36YnV9STBqc
-
-欧美音乐1  |香港||
-https://www.youtube.com/watch?v=oVu-aAMV9c8
-
-三立新闻 |台湾||
-https://www.youtube.com/watch?v=CKjSm5ZeehE
-
-東森新聞  |台湾||
-https://www.youtube.com/watch?v=R2iMq5LKXco
-
-東森財經新聞  |台湾||
+东森财经新闻 | YouTube | http://192.168.99.91:1111/icon/dongsencaijingxinwen.png | 
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-机场免费节点 |||
-https://www.youtube.com/watch?v=0LFElpy53aU
+东森Live | YouTube |  | 
+https://www.youtube.com/watch?v=R2iMq5LKXco
 
-東森娛樂台live |
-https://www.youtube.com/watch?v=AH053CqyXWg
+东森幼幼 | YouTube | http://192.168.99.91:1111/icon/dongsenyouyou.png | 
+https://www.youtube.com/watch?v=gFvw922wb6k
+
+三立iNews新闻 | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
+https://www.youtube.com/watch?v=CKjSm5ZeehE
+
+三立+ Live News | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
+https://www.youtube.com/watch?v=jlldIiGA5bU
+
+Live三立海外 | YouTube |  | 
+https://www.youtube.com/watch?v=FoBfXvlOR6I
+
+镜新闻 | YouTube |  | 
+https://www.youtube.com/watch?v=5n0y6b0Q25o
+
+幸福空间居家台 | YouTube | http://192.168.99.91:1111/icon/xingfukongjianjujia.png | 
+https://www.youtube.com/watch?v=_jbDwrcm0Xw
+
+新唐人亚太 | YouTube | http://192.168.99.91:1111/icon/xintangren.png | 
+https://www.youtube.com/watch?v=WIhgU_mc05A
+
+ABC美国广播公司 | YouTube |  | 
+https://www.youtube.com/watch?v=w_Ma8oQLmSM
+
+The Good Life Radio | YouTube |  | 
+https://www.youtube.com/watch?v=36YnV9STBqc
+
+New Music Mix | YouTube |  | 
+https://www.youtube.com/watch?v=oVu-aAMV9c8
+
 
