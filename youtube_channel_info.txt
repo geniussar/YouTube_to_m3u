@@ -14,9 +14,6 @@ https://www.youtube.com/watch?v=wM0g8EoUZ_E
 华视天才冲冲冲轮播 | YouTube | http://192.168.99.91:1111/icon/huashi.png | 
 https://www.youtube.com/watch?v=KgMhHfMG0p8
 
-公视新闻 | YouTube |  | 
-https://www.youtube.com/watch?v=dJY0h_xcKOs
-
 台视新闻 | YouTube | http://192.168.99.91:1111/icon/taishixinwen.png | 
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
@@ -35,19 +32,13 @@ https://www.youtube.com/watch?v=B7Zp3d6xXWw
 寰宇新闻Global News | YouTube | http://192.168.99.91:1111/icon/huanyuxinwen.png | 
 https://www.youtube.com/watch?v=DDvdmzvaNJs
 
-TVBS 56频道 | YouTube | http://192.168.99.91:1111/icon/TVBS.png | 
+TVBS | YouTube | http://192.168.99.91:1111/icon/TVBS.png | 
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-TVBS 55新闻 | YouTube |  | 
+TVBS新闻 | YouTube |  | 
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-TVBS新闻HD | YouTube |  | 
-https://www.youtube.com/watch?v=GDbZoNmN0BE
-
-TVBS News | YouTube |  | 
-https://www.youtube.com/watch?v=cz98t_t7s9Q
-
-东森新闻 51频道 | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
+东森新闻 | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
 https://www.youtube.com/watch?v=khuZW5GdBXo
 
 东森财经新闻 | YouTube | http://192.168.99.91:1111/icon/dongsencaijingxinwen.png | 
