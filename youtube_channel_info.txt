@@ -8,6 +8,12 @@ https://www.youtube.com/watch?v=dmDg7NfUoSw
 中视新闻 | YouTube | http://192.168.99.91:1111/icon/zhongshixinwen.png | 
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
+华视新闻 | YouTube | http://192.168.99.91:1111/icon/huashi.png | 
+https://www.youtube.com/watch?v=wM0g8EoUZ_E
+
+华视天才冲冲冲轮播 | YouTube | http://192.168.99.91:1111/icon/huashi.png | 
+https://www.youtube.com/watch?v=KgMhHfMG0p8
+
 台视新闻 | YouTube | http://192.168.99.91:1111/icon/taishixinwen.png | 
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
@@ -26,11 +32,20 @@ https://www.youtube.com/watch?v=B7Zp3d6xXWw
 寰宇新闻Global News | YouTube | http://192.168.99.91:1111/icon/huanyuxinwen.png | 
 https://www.youtube.com/watch?v=DDvdmzvaNJs
 
-东森新闻 | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
+TVBS | YouTube | http://192.168.99.91:1111/icon/TVBS.png | 
+https://www.youtube.com/watch?v=YvdcZ_jpLXE
+
+TVBS新闻 | YouTube |  | 
+https://www.youtube.com/watch?v=2mCSYvcfhtc
+
+东森新闻 51频道 | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
 https://www.youtube.com/watch?v=khuZW5GdBXo
 
 东森财经新闻 | YouTube | http://192.168.99.91:1111/icon/dongsencaijingxinwen.png | 
 https://www.youtube.com/watch?v=WHEPzbFA3hw
+
+东森Live | YouTube |  | 
+https://www.youtube.com/watch?v=R2iMq5LKXco
 
 东森幼幼 | YouTube | http://192.168.99.91:1111/icon/dongsenyouyou.png | 
 https://www.youtube.com/watch?v=gFvw922wb6k
@@ -40,6 +55,9 @@ https://www.youtube.com/watch?v=CKjSm5ZeehE
 
 三立+ Live News | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
 https://www.youtube.com/watch?v=jlldIiGA5bU
+
+Live三立海外 | YouTube |  | 
+https://www.youtube.com/watch?v=FoBfXvlOR6I
 
 镜新闻 | YouTube | https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@239@2006_20230119100452.png | 
 https://www.youtube.com/watch?v=5n0y6b0Q25o
