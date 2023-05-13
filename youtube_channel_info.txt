@@ -8,12 +8,6 @@ https://www.youtube.com/watch?v=dmDg7NfUoSw
 中视新闻 | YouTube | http://192.168.99.91:1111/icon/zhongshixinwen.png | 
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-华视新闻 | YouTube | http://192.168.99.91:1111/icon/huashi.png | 
-https://www.youtube.com/watch?v=wM0g8EoUZ_E
-
-华视天才冲冲冲轮播 | YouTube | http://192.168.99.91:1111/icon/huashi.png | 
-https://www.youtube.com/watch?v=KgMhHfMG0p8
-
 台视新闻 | YouTube | http://192.168.99.91:1111/icon/taishixinwen.png | 
 https://www.youtube.com/watch?v=xL0ch83RAK8
 
@@ -52,9 +46,6 @@ https://www.youtube.com/watch?v=gFvw922wb6k
 
 三立iNews新闻 | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
 https://www.youtube.com/watch?v=CKjSm5ZeehE
-
-三立+ Live News | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
-https://www.youtube.com/watch?v=jlldIiGA5bU
 
 Live三立海外 | YouTube |  | 
 https://www.youtube.com/watch?v=FoBfXvlOR6I
