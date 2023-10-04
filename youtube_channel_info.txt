@@ -5,11 +5,14 @@
 中视新闻 | YouTube | http://192.168.99.91:1111/icon/zhongshixinwen.png | 
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
-台视新闻 | YouTube | http://192.168.99.91:1111/icon/taishixinwen.png | 
-https://www.youtube.com/watch?v=xL0ch83RAK8
+公视新闻 | YouTube | http://192.168.99.91:1111/icon/gongshi.png | 
+https://www.youtube.com/watch?v=quwqlazU-c8
 
 民视新闻 | YouTube | http://192.168.99.91:1111/icon/minshixinwen.png | 
 https://www.youtube.com/watch?v=ylYJSBUgaMA
+
+台视新闻 | YouTube | http://192.168.99.91:1111/icon/taishixinwen.png | 
+https://www.youtube.com/watch?v=xL0ch83RAK8
 
 中天新闻 | YouTube | http://192.168.99.91:1111/icon/zhongtianxinwen.png | 
 https://www.youtube.com/watch?v=oIgbl7t0S_w
@@ -20,28 +23,31 @@ https://www.youtube.com/watch?v=WPfPjbOLNfE
 寰宇新闻 | YouTube | http://192.168.99.91:1111/icon/huanyuxinwen.png | 
 https://www.youtube.com/watch?v=6IquAgfvYmc
 
-寰宇新闻Global News | YouTube | http://192.168.99.91:1111/icon/huanyuxinwen.png | 
-https://www.youtube.com/watch?v=DDvdmzvaNJs
+寰宇新闻台湾台 | YouTube | http://192.168.99.91:1111/icon/huanyuxinwen.png | 
+https://www.youtube.com/watch?v=UcTIv4ZaE5Y
+
+寰宇新闻台 Global News TV | YouTube | http://192.168.99.91:1111/icon/huanyuxinwen.png | 
+https://www.youtube.com/watch?v=V8ue1aoEOEQ
 
 TVBS | YouTube | http://192.168.99.91:1111/icon/TVBS.png | 
 https://www.youtube.com/watch?v=YvdcZ_jpLXE
 
-TVBS新闻 | YouTube |  | 
+TVBS新闻 | YouTube | http://192.168.99.91:1111/icon/TVBSxinwen.png | 
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-东森新闻 51频道 | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
+东森新闻51频道 | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
 https://www.youtube.com/watch?v=S5WOGu2HSes
 
 东森财经新闻 | YouTube | http://192.168.99.91:1111/icon/dongsencaijingxinwen.png | 
 https://www.youtube.com/watch?v=WHEPzbFA3hw
 
-东森Live | YouTube |  | 
+东森Live | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 
 三立iNews新闻 | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
 https://www.youtube.com/watch?v=oZdzzvxTfUY
 
-Live三立海外 | YouTube |  | 
+Live三立海外 | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
 https://www.youtube.com/watch?v=FoBfXvlOR6I
 
 镜新闻 | YouTube | https://apl-hamivideo.cdn.hinet.net/HamiVideo/getHamiVideoImg.php?imageId=sourceImages@Live@239@2006_20230119100452.png | 
@@ -56,5 +62,14 @@ https://www.youtube.com/watch?v=WIhgU_mc05A
 ABC美国广播公司 | YouTube | https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png | 
 https://www.youtube.com/watch?v=OOtxXPaQvoM
 
-The Good Life Radio | YouTube |  | 
-https://www.youtube.com/watch?v=36YnV9STBqc
+FOX福克斯新闻 | YouTube | http://192.168.99.91:1111/icon/FoxNews.png | 
+https://www.youtube.com/watch?v=qoytj8mNq7s
+
+美国NBC新闻 | YouTube | http://192.168.99.91:1111/icon/NBCNews.png | 
+https://www.youtube.com/watch?v=mhm70vfmcfo
+
+英国天空新闻 | YouTube | http://192.168.99.91:1111/icon/SkyNews.png | 
+https://www.youtube.com/watch?v=9Auq9mYxFEE
+
+半岛电视台 | YouTube | http://192.168.99.91:1111/icon/AlJazeera.png | 
+https://www.youtube.com/watch?v=gCNeDWCI0vo
