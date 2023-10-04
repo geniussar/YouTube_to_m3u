@@ -44,9 +44,6 @@ https://www.youtube.com/watch?v=WHEPzbFA3hw
 东森Live | YouTube | http://192.168.99.91:1111/icon/dongsenxinwen.png | 
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 
-三立iNews新闻 | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
-https://www.youtube.com/watch?v=oZdzzvxTfUY
-
 Live三立海外 | YouTube | http://192.168.99.91:1111/icon/sanliinews.png | 
 https://www.youtube.com/watch?v=FoBfXvlOR6I
 
@@ -64,9 +61,6 @@ https://www.youtube.com/watch?v=OOtxXPaQvoM
 
 FOX福克斯新闻 | YouTube | http://192.168.99.91:1111/icon/FoxNews.png | 
 https://www.youtube.com/watch?v=qoytj8mNq7s
-
-美国NBC新闻 | YouTube | http://192.168.99.91:1111/icon/NBCNews.png | 
-https://www.youtube.com/watch?v=mhm70vfmcfo
 
 英国天空新闻 | YouTube | http://192.168.99.91:1111/icon/SkyNews.png | 
 https://www.youtube.com/watch?v=9Auq9mYxFEE
