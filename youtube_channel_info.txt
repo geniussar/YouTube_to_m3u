@@ -2,6 +2,9 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 
+凤凰资讯 | YouTube | http://ddns.liguangbin.top:1111/icon/fenghuangzixun.png | 
+https://www.youtube.com/watch?v=HFib76ySpbU
+
 中视新闻 | YouTube | http://ddns.liguangbin.top:1111/icon/zhongshixinwen.png | 
 https://www.youtube.com/watch?v=TCnaIE_SAtM
 
@@ -27,18 +30,21 @@ https://www.youtube.com/watch?v=6IquAgfvYmc
 https://www.youtube.com/watch?v=w87VGpgd90U
 
 寰宇新闻台 Global News TV | YouTube | http://ddns.liguangbin.top:1111/icon/huanyuxinwen.png | 
-https://www.youtube.com/watch?v=vOue3tgccd0
+https://www.youtube.com/watch?v=NhZXUwlY2dU
 
 TVBS | YouTube | http://ddns.liguangbin.top:1111/icon/TVBS.png | 
-https://www.youtube.com/watch?v=YvdcZ_jpLXE
+https://www.youtube.com/watch?v=o_-hSMgpAzs
 
 TVBS新闻 | YouTube | http://ddns.liguangbin.top:1111/icon/TVBSxinwen.png | 
 https://www.youtube.com/watch?v=2mCSYvcfhtc
 
-东森新闻51频道 | YouTube | http://ddns.liguangbin.top:1111/icon/dongsenxinwen.png | 
-https://www.youtube.com/watch?v=2dfAzcDf8Zg
+TVBS News | YouTube | http://ddns.liguangbin.top:1111/icon/TVBSxinwen.png | 
+https://www.youtube.com/watch?v=m_dhMSvUCIc
 
 东森新闻51频道 | YouTube | http://ddns.liguangbin.top:1111/icon/dongsenxinwen.png | 
+https://www.youtube.com/watch?v=V1p33hqPrUk
+
+东森新闻51频道线上 | YouTube | http://ddns.liguangbin.top:1111/icon/dongsenxinwen.png | 
 https://www.youtube.com/watch?v=E0zhe2gkXBs
 
 东森财经新闻 | YouTube | http://ddns.liguangbin.top:1111/icon/dongsencaijingxinwen.png | 
@@ -63,13 +69,22 @@ https://www.youtube.com/watch?v=5n0y6b0Q25o
 https://www.youtube.com/watch?v=WIhgU_mc05A
 
 ABC美国广播公司新闻直播 | YouTube | https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png | 
-https://www.youtube.com/watch?v=lq2f3W_6IQM
+https://www.youtube.com/watch?v=-mvUkiILTqI
 
-ABC美国广播公司最新新闻头条 | YouTube | https://assets-cdn.watchdisneyfe.com/delta/assets/abc/abc-nav.png | 
-https://www.youtube.com/watch?v=gN0PZCe-kwQ
+FOX福克斯新闻直播 | YouTube | http://ddns.liguangbin.top:1111/icon/fox.png | 
+https://www.youtube.com/watch?v=YDfiTGGPYCk
 
-英国天空新闻 | YouTube | http://ddns.liguangbin.top:1111/icon/SkyNews.png | 
-https://www.youtube.com/watch?v=w9uJg68CV4g
+Sky英国天空新闻 | YouTube | http://ddns.liguangbin.top:1111/icon/SkyNews.png | 
+https://www.youtube.com/watch?v=oJUvTVdTMyY
+
+ABC澳大利亚新闻直播 | YouTube | http://ddns.liguangbin.top:1111/icon/abc_australia.png | 
+https://www.youtube.com/watch?v=vOTiJkg1voo
+
+CNA新加坡亚洲新闻台 | YouTube | http://ddns.liguangbin.top:1111/icon/cna.png | 
+https://www.youtube.com/watch?v=XWq5kBlakcQ
 
 半岛电视台 | YouTube | http://ddns.liguangbin.top:1111/icon/AlJazeera.png | 
 https://www.youtube.com/watch?v=gCNeDWCI0vo
+
+TRT土耳其广播电视公司国际频道 | YouTube | http://ddns.liguangbin.top:1111/icon/TRT.png | 
+https://www.youtube.com/watch?v=5VF4aor94gw
